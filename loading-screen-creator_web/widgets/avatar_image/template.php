@@ -1,0 +1,1 @@
+<img class="user_avatar"></img>

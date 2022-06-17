@@ -1,0 +1,10 @@
+RewriteEngine On
+
+<Files *.json>
+order allow,deny
+deny from all
+</Files>
+
+# Send Requests To Front Controller...
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule ^ index.php [L]

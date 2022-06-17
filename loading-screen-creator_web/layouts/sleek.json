@@ -1,0 +1,194 @@
+{
+    "name": "sleekLoad 2 - remake",
+    "widgets": [
+        {
+            "name": "Text",
+            "css": {
+                "width": "31.2077%",
+                "height": "5.77691%",
+                "color": "rgb(255, 255, 255)",
+                "font-size": "1.2vw",
+                "font-weight": "normal",
+                "font-family": "Rajdhani",
+                "text-align": "left",
+                "z-index": "10",
+                "left": "0.999674%",
+                "top": "7.49624%"
+            },
+            "position": {
+                "x": "0.9993489583333334%",
+                "y": "7.495710137275607%"
+            },
+            "vars": {
+                "text": "We are currently playing <b>{{ gamemode }}<\/b> at <b>{{ map }}<\/b>"
+            }
+        },
+        {
+            "name": "Text",
+            "css": {
+                "width": "14.2073%",
+                "height": "8.77459%",
+                "color": "rgb(255, 255, 255)",
+                "font-size": "3.32vw",
+                "font-weight": "normal",
+                "font-family": "Rajdhani",
+                "text-align": "left",
+                "z-index": "10",
+                "left": "0.998861%",
+                "top": "-0.00231481%"
+            },
+            "position": {
+                "x": "0.99853515625%",
+                "y": "-0.0016499472016895458%"
+            },
+            "vars": {
+                "text": "yourLoad"
+            }
+        },
+        {
+            "name": "Text",
+            "css": {
+                "width": "31.2077%",
+                "height": "5.77691%",
+                "color": "rgb(255, 255, 255)",
+                "font-size": "1.2vw",
+                "font-weight": "normal",
+                "font-family": "Rajdhani",
+                "text-align": "left",
+                "z-index": "10",
+                "left": "0.999349%",
+                "top": "88.9852%"
+            },
+            "position": {
+                "x": "0.9993489583333334%",
+                "y": "88.9849524815206%"
+            },
+            "vars": {
+                "text": "You are now listening to"
+            }
+        },
+        {
+            "name": "Text",
+            "css": {
+                "width": "31.2077%",
+                "height": "5.77691%",
+                "color": "rgb(255, 255, 255)",
+                "font-size": "2.2vw",
+                "font-weight": "bold",
+                "font-family": "Rajdhani",
+                "text-align": "left",
+                "z-index": "10",
+                "left": "0.999349%",
+                "top": "92.9896%"
+            },
+            "position": {
+                "x": "0.9993489583333334%",
+                "y": "92.98937434002112%"
+            },
+            "vars": {
+                "text": "SRO - SELF DRIVING"
+            }
+        },
+        {
+            "name": "Progress bar",
+            "css": {
+                "width": "47.9997%",
+                "height": "0.5%",
+                "background-color": "rgb(255, 255, 255)",
+                "border-radius": "0px",
+                "opacity": "1",
+                "background-size": "cover",
+                "background-position": "center center",
+                "box-shadow": "rgba(0, 0, 0, 0.2) 0px 0px 0px",
+                "border-width": "0px",
+                "border-color": "rgb(0, 0, 0)",
+                "border-style": "solid",
+                "z-index": "5",
+                "left": "26%",
+                "top": "49%",
+                "bottom": "0px",
+                "right": "0px"
+            },
+            "position": {
+                "x": "25.999348958333332%",
+                "y": "48.998482048574445%"
+            }
+        },
+        {
+            "name": "Box",
+            "css": {
+                "width": "47.9981%",
+                "height": "0.499132%",
+                "background-color": "rgba(255, 255, 255, 0.11)",
+                "border-radius": "0px",
+                "opacity": "1",
+                "background-size": "cover",
+                "background-position": "center center",
+                "box-shadow": "rgba(0, 0, 0, 0.2) 0px 0px 0px",
+                "border-width": "0px",
+                "border-color": "rgb(0, 0, 0)",
+                "border-style": "solid",
+                "z-index": "5",
+                "left": "25.9994%",
+                "top": "48.9989%"
+            },
+            "position": {
+                "x": "25.999348958333332%",
+                "y": "48.998482048574445%"
+            }
+        },
+        {
+            "name": "Progress text",
+            "css": {
+                "width": "48.208%",
+                "height": "3.77749%",
+                "color": "rgb(255, 255, 255)",
+                "font-size": "1.2vw",
+                "font-weight": "normal",
+                "font-family": "Rajdhani",
+                "text-align": "center",
+                "z-index": "10",
+                "left": "25.9994%",
+                "top": "44%",
+                "right": "0px"
+            },
+            "position": {
+                "x": "25.999348958333332%",
+                "y": "43.99914202745512%"
+            },
+            "vars": {
+                "text": "Downloading \"slownls\/atm\/logo.png\"..."
+            }
+        },
+        {
+            "name": "Text",
+            "css": {
+                "width": "48.2072%",
+                "height": "5.77546%",
+                "color": "rgb(255, 255, 255)",
+                "font-size": "1.2vw",
+                "font-weight": "normal",
+                "font-family": "Rajdhani",
+                "text-align": "center",
+                "z-index": "10",
+                "left": "25.9994%",
+                "top": "50.4838%"
+            },
+            "position": {
+                "x": "25.999348958333332%",
+                "y": "50.48343453009504%"
+            },
+            "vars": {
+                "text": "Thanks for joining us <b>{{ user_name }}<\/b>"
+            }
+        }
+    ],
+    "sound": {
+        "src": "https:\/\/sndup.net\/2448\/Sro_-_Self_Driving.ogg",
+        "volume": "0.1"
+    },
+    "body": {
+        "background-image": "url(\"https:\/\/thumbs.gfycat.com\/WhoppingFrighteningBluejay-size_restricted.gif\")",
+        "cursor": "auto"
+    }
+}

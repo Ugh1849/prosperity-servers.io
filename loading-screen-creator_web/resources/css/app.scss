@@ -1,0 +1,58 @@
+@import "~bootstrap/dist/css/bootstrap.min.css";
+@import "vars";
+
+html, body{
+    height: 100%;
+}
+
+body {
+    background-color: $grey;
+}
+
+.form-group label, label.custom {
+    font-weight: bold;
+    color: $primary;
+}
+
+.container {
+    animation: fadeIn 0.4s ease;
+}
+
+@keyframes fadeIn {
+    0% {
+        opacity: 0;
+        transform: translateX(-20px);
+    }
+    100% {
+        opacity: 1;
+        transform: translateX(0px);
+    }
+}
+
+.btn-custom, .btn-custom-dark {
+    background-color: $primary;
+    box-shadow: 0px 0px 15px rgba($primary, $alpha: 0.4);
+    color: white;
+    
+    &:hover {
+        color: white;
+        box-shadow: 0px 0px 5px rgba($primary, $alpha: 0.4);
+    }
+
+    &:active, &:focus {
+        outline: 0;
+        box-shadow: 0px 0px 5px rgba($primary, $alpha: 0.4);
+    }
+}
+
+.btn-custom-dark {
+    background-color: darken($color: $primary, $amount: 5) !important;
+}
+
+.block {
+    border: 1px solid blueviolet;
+    height: 150px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

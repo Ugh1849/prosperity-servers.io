@@ -1,0 +1,1270 @@
+{
+    "name": "Striper Loading - remake",
+    "widgets": [
+        {
+            "name": "Box",
+            "css": {
+                "width": "52.9974%",
+                "height": "14.9964%",
+                "background-color": "rgb(51, 51, 51)",
+                "border-radius": "0px",
+                "opacity": "1",
+                "background-size": "cover",
+                "background-position": "center center",
+                "box-shadow": "rgba(0, 0, 0, 0.2) 0px 0px 0px",
+                "border-width": "0px",
+                "border-color": "rgb(0, 0, 0)",
+                "border-style": "solid",
+                "z-index": "0",
+                "left": "22.9997%",
+                "top": "13.9998%",
+                "right": "0px",
+                "bottom": "0px"
+            },
+            "position": {
+                "x": "22.999674479166668%",
+                "y": "13.998842592592593%"
+            }
+        },
+        {
+            "name": "Box",
+            "css": {
+                "width": "53%",
+                "height": "0.6%",
+                "background-color": "rgb(71, 228, 97)",
+                "border-radius": "0px",
+                "opacity": "1",
+                "background-size": "cover",
+                "background-position": "center center",
+                "box-shadow": "rgba(0, 0, 0, 0.2) 0px 0px 0px",
+                "border-width": "0px",
+                "border-color": "rgb(0, 0, 0)",
+                "border-style": "solid",
+                "z-index": "5",
+                "left": "22.995%",
+                "top": "13.9485%",
+                "right": "0px",
+                "bottom": "0px"
+            },
+            "position": {
+                "x": "22.994791666666668%",
+                "y": "13.948206018518519%"
+            }
+        },
+        {
+            "name": "Image",
+            "css": {
+                "width": "44.9951%",
+                "height": "10.9968%",
+                "border-radius": "0px",
+                "opacity": "1",
+                "background-size": "100% 100%",
+                "background-repeat": "no-repeat",
+                "background-position": "center center",
+                "z-index": "1",
+                "left": "18.9979%",
+                "top": "16%",
+                "background-image": "url(\"https:\/\/media.discordapp.net\/attachments\/389520400721117185\/735195370774069328\/logo.png\")",
+                "bottom": "auto"
+            },
+            "position": {
+                "x": "18.997395833333332%",
+                "y": "15.999710648148149%"
+            }
+        },
+        {
+            "name": "Box",
+            "css": {
+                "width": "15.1%",
+                "height": "0.6%",
+                "background-color": "rgb(71, 226, 96)",
+                "border-radius": "0px",
+                "opacity": "1",
+                "background-size": "cover",
+                "background-position": "center center",
+                "box-shadow": "rgba(0, 0, 0, 0.2) 0px 0px 0px",
+                "border-width": "0px",
+                "border-color": "rgb(0, 0, 0)",
+                "border-style": "solid",
+                "z-index": "46",
+                "left": "22.9958%",
+                "top": "30.9984%"
+            },
+            "position": {
+                "x": "22.99560546875%",
+                "y": "30.99826388888889%"
+            }
+        },
+        {
+            "name": "Box",
+            "css": {
+                "width": "15%",
+                "height": "0.6%",
+                "background-color": "rgb(71, 226, 96)",
+                "border-radius": "0px",
+                "opacity": "1",
+                "background-size": "cover",
+                "background-position": "center center",
+                "box-shadow": "rgba(0, 0, 0, 0.2) 0px 0px 0px",
+                "border-width": "0px",
+                "border-color": "rgb(0, 0, 0)",
+                "border-style": "solid",
+                "z-index": "22",
+                "left": "22.9979%",
+                "top": "51%",
+                "bottom": "auto"
+            },
+            "position": {
+                "x": "22.997233072916668%",
+                "y": "50.999710648148145%"
+            }
+        },
+        {
+            "name": "Text",
+            "css": {
+                "width": "12.8996%",
+                "height": "15.9984%",
+                "color": "rgb(255, 255, 255)",
+                "font-size": "0.72vw",
+                "font-weight": "normal",
+                "font-family": "Rajdhani",
+                "text-align": "center",
+                "z-index": "10",
+                "left": "23.9901%",
+                "top": "50.9904%"
+            },
+            "position": {
+                "x": "23.990071614583332%",
+                "y": "50.989583333333336%"
+            },
+            "vars": {
+                "text": "The server was made year 2009 and has been run by the original owner eversince. With distinctive and rewarding management he have built up 10 servers and recruited almost 30 administrators"
+            }
+        },
+        {
+            "name": "Box",
+            "css": {
+                "width": "15%",
+                "height": "0.6%",
+                "background-color": "rgb(71, 226, 96)",
+                "border-radius": "0px",
+                "opacity": "1",
+                "background-size": "cover",
+                "background-position": "center center",
+                "box-shadow": "rgba(0, 0, 0, 0.2) 0px 0px 0px",
+                "border-width": "0px",
+                "border-color": "rgb(0, 0, 0)",
+                "border-style": "solid",
+                "z-index": "17",
+                "left": "22.9979%",
+                "top": "70.9984%"
+            },
+            "position": {
+                "x": "22.997233072916668%",
+                "y": "70.99826388888889%"
+            }
+        },
+        {
+            "name": "Box",
+            "css": {
+                "width": "18.9974%",
+                "height": "55.9968%",
+                "background-color": "rgb(51, 51, 51)",
+                "border-radius": "0px",
+                "opacity": "1",
+                "background-size": "cover",
+                "background-position": "center center",
+                "box-shadow": "rgba(0, 0, 0, 0.2) 0px 0px 0px",
+                "border-width": "0px",
+                "border-color": "rgb(0, 0, 0)",
+                "border-style": "solid",
+                "z-index": "5",
+                "left": "40%",
+                "top": "30.992%",
+                "right": "0px"
+            },
+            "position": {
+                "x": "40%",
+                "y": "30.99103009259259%"
+            }
+        },
+        {
+            "name": "Box",
+            "css": {
+                "width": "15.9994%",
+                "height": "22.9986%",
+                "background-color": "rgb(51, 51, 51)",
+                "border-radius": "0px",
+                "opacity": "1",
+                "background-size": "cover",
+                "background-position": "center center",
+                "box-shadow": "rgba(0, 0, 0, 0.2) 5px 0px 5px",
+                "border-width": "0px",
+                "border-color": "rgb(0, 0, 0)",
+                "border-style": "solid",
+                "z-index": "5",
+                "left": "59.9976%",
+                "top": "30.9984%"
+            },
+            "position": {
+                "x": "59.99755859375%",
+                "y": "30.99826388888889%"
+            }
+        },
+        {
+            "name": "Box",
+            "css": {
+                "width": "15.9994%",
+                "height": "29.9936%",
+                "background-color": "rgb(51, 51, 51)",
+                "border-radius": "0px",
+                "opacity": "1",
+                "background-size": "cover",
+                "background-position": "center center",
+                "box-shadow": "rgba(0, 0, 0, 0.2) 0px 0px 0px",
+                "border-width": "0px",
+                "border-color": "rgb(0, 0, 0)",
+                "border-style": "solid",
+                "z-index": "5",
+                "left": "59.9977%",
+                "top": "57%",
+                "bottom": "auto"
+            },
+            "position": {
+                "x": "59.99755859375%",
+                "y": "56.9994212962963%"
+            }
+        },
+        {
+            "name": "Box",
+            "css": {
+                "width": "15%",
+                "height": "15.9979%",
+                "background-color": "rgb(255, 255, 255)",
+                "border-radius": "0px",
+                "opacity": "1",
+                "background-size": "cover",
+                "background-position": "center center",
+                "box-shadow": "rgba(0, 0, 0, 0.2) 0px 0px 0px",
+                "border-width": "0px",
+                "border-color": "rgb(0, 0, 0)",
+                "border-style": "solid",
+                "z-index": "4",
+                "left": "22.9966%",
+                "top": "71%",
+                "background-image": "url(\"https:\/\/media.discordapp.net\/attachments\/389520400721117185\/735195820575686727\/side-pic2.jpg\")"
+            },
+            "position": {
+                "x": "22.996419270833332%",
+                "y": "70.99971064814815%"
+            }
+        },
+        {
+            "name": "Box",
+            "css": {
+                "width": "15%",
+                "height": "15.9979%",
+                "background-color": "rgb(255, 255, 255)",
+                "border-radius": "0px",
+                "opacity": "1",
+                "background-size": "cover",
+                "background-position": "center center",
+                "box-shadow": "rgba(0, 0, 0, 0.2) 0px 0px 0px",
+                "border-width": "0px",
+                "border-color": "rgb(0, 0, 0)",
+                "border-style": "solid",
+                "z-index": "4",
+                "left": "22.9979%",
+                "top": "51%",
+                "background-image": "url(\"https:\/\/media.discordapp.net\/attachments\/389520400721117185\/735195824618995763\/side-pic3.jpg\")"
+            },
+            "position": {
+                "x": "22.997233072916668%",
+                "y": "50.999710648148145%"
+            }
+        },
+        {
+            "name": "Box",
+            "css": {
+                "width": "15%",
+                "height": "16%",
+                "background-color": "rgb(255, 255, 255)",
+                "border-radius": "0px",
+                "opacity": "1",
+                "background-size": "cover",
+                "background-position": "center center",
+                "box-shadow": "rgba(0, 0, 0, 0.2) 0px 0px 0px",
+                "border-width": "0px",
+                "border-color": "rgb(0, 0, 0)",
+                "border-style": "solid",
+                "z-index": "4",
+                "background-image": "url(\"https:\/\/media.discordapp.net\/attachments\/389520400721117185\/735195814951125150\/side-pic1.jpg\")",
+                "left": "22.9989%",
+                "top": "30.9984%"
+            },
+            "position": {
+                "x": "22.998860677083332%",
+                "y": "30.99826388888889%"
+            }
+        },
+        {
+            "name": "Box",
+            "css": {
+                "width": "18.9998%",
+                "height": "0.6%",
+                "background-color": "rgb(71, 226, 96)",
+                "border-radius": "0px",
+                "opacity": "1",
+                "background-size": "cover",
+                "background-position": "center center",
+                "box-shadow": "rgba(0, 0, 0, 0.2) 0px 0px 0px",
+                "border-width": "0px",
+                "border-color": "rgb(0, 0, 0)",
+                "border-style": "solid",
+                "z-index": "5",
+                "left": "39.9982%",
+                "top": "31%",
+                "bottom": "auto"
+            },
+            "position": {
+                "x": "39.99755859375%",
+                "y": "30.99971064814815%"
+            }
+        },
+        {
+            "name": "Box",
+            "css": {
+                "width": "15.9994%",
+                "height": "0.6%",
+                "background-color": "rgb(71, 226, 96)",
+                "border-radius": "0px",
+                "opacity": "1",
+                "background-size": "cover",
+                "background-position": "center center",
+                "box-shadow": "rgba(0, 0, 0, 0.2) 0px 0px 0px",
+                "border-width": "0px",
+                "border-color": "rgb(0, 0, 0)",
+                "border-style": "solid",
+                "z-index": "5",
+                "left": "59.9985%",
+                "top": "30.9984%",
+                "bottom": "auto"
+            },
+            "position": {
+                "x": "59.998372395833336%",
+                "y": "30.99826388888889%"
+            }
+        },
+        {
+            "name": "Box",
+            "css": {
+                "width": "15.9994%",
+                "height": "0.6%",
+                "background-color": "rgb(71, 226, 96)",
+                "border-radius": "0px",
+                "opacity": "1",
+                "background-size": "cover",
+                "background-position": "center center",
+                "box-shadow": "rgba(0, 0, 0, 0.2) 0px 0px 0px",
+                "border-width": "0px",
+                "border-color": "rgb(0, 0, 0)",
+                "border-style": "solid",
+                "z-index": "5",
+                "left": "59.9977%",
+                "top": "56.9984%",
+                "bottom": "auto"
+            },
+            "position": {
+                "x": "59.99755859375%",
+                "y": "56.99797453703704%"
+            }
+        },
+        {
+            "name": "Text",
+            "css": {
+                "width": "11.2077%",
+                "height": "7.16347%",
+                "color": "rgb(255, 255, 255)",
+                "font-size": "1.56vw",
+                "font-weight": "normal",
+                "font-family": "Rajdhani",
+                "text-align": "left",
+                "z-index": "10",
+                "left": "40.9961%",
+                "top": "30.9893%"
+            },
+            "position": {
+                "x": "40.99609375%",
+                "y": "30.988136574074073%"
+            },
+            "vars": {
+                "text": "SERVER RULES"
+            }
+        },
+        {
+            "name": "Box",
+            "css": {
+                "width": "18.9998%",
+                "height": "0.6%",
+                "background-color": "rgb(71, 226, 96)",
+                "border-radius": "0px",
+                "opacity": "1",
+                "background-size": "cover",
+                "background-position": "center center",
+                "box-shadow": "rgba(0, 0, 0, 0.2) 0px 0px 0px",
+                "border-width": "0px",
+                "border-color": "rgb(0, 0, 0)",
+                "border-style": "solid",
+                "z-index": "5",
+                "left": "39.9982%",
+                "top": "37.7997%",
+                "bottom": "auto"
+            },
+            "position": {
+                "x": "39.99755859375%",
+                "y": "37.799479166666664%"
+            }
+        },
+        {
+            "name": "Box",
+            "css": {
+                "width": "18.9998%",
+                "height": "0.6%",
+                "background-color": "rgb(71, 226, 96)",
+                "border-radius": "0px",
+                "opacity": "1",
+                "background-size": "cover",
+                "background-position": "center center",
+                "box-shadow": "rgba(0, 0, 0, 0.2) 0px 0px 0px",
+                "border-width": "0px",
+                "border-color": "rgb(0, 0, 0)",
+                "border-style": "solid",
+                "z-index": "5",
+                "left": "39.9982%",
+                "top": "44.7997%",
+                "bottom": "auto"
+            },
+            "position": {
+                "x": "39.99755859375%",
+                "y": "44.79890046296296%"
+            }
+        },
+        {
+            "name": "Box",
+            "css": {
+                "width": "18.9998%",
+                "height": "0.6%",
+                "background-color": "rgb(71, 226, 96)",
+                "border-radius": "0px",
+                "opacity": "1",
+                "background-size": "cover",
+                "background-position": "center center",
+                "box-shadow": "rgba(0, 0, 0, 0.2) 0px 0px 0px",
+                "border-width": "0px",
+                "border-color": "rgb(0, 0, 0)",
+                "border-style": "solid",
+                "z-index": "5",
+                "left": "39.9982%",
+                "top": "51.7997%",
+                "bottom": "auto"
+            },
+            "position": {
+                "x": "39.99755859375%",
+                "y": "51.79832175925926%"
+            }
+        },
+        {
+            "name": "Box",
+            "css": {
+                "width": "18.9998%",
+                "height": "0.6%",
+                "background-color": "rgb(71, 226, 96)",
+                "border-radius": "0px",
+                "opacity": "1",
+                "background-size": "cover",
+                "background-position": "center center",
+                "box-shadow": "rgba(0, 0, 0, 0.2) 0px 0px 0px",
+                "border-width": "0px",
+                "border-color": "rgb(0, 0, 0)",
+                "border-style": "solid",
+                "z-index": "5",
+                "left": "39.9982%",
+                "top": "58.7997%",
+                "bottom": "auto"
+            },
+            "position": {
+                "x": "39.99755859375%",
+                "y": "58.79918981481482%"
+            }
+        },
+        {
+            "name": "Box",
+            "css": {
+                "width": "18.9998%",
+                "height": "0.6%",
+                "background-color": "rgb(71, 226, 96)",
+                "border-radius": "0px",
+                "opacity": "1",
+                "background-size": "cover",
+                "background-position": "center center",
+                "box-shadow": "rgba(0, 0, 0, 0.2) 0px 0px 0px",
+                "border-width": "0px",
+                "border-color": "rgb(0, 0, 0)",
+                "border-style": "solid",
+                "z-index": "5",
+                "left": "39.9982%",
+                "top": "65.7997%",
+                "bottom": "auto"
+            },
+            "position": {
+                "x": "39.99755859375%",
+                "y": "65.79861111111111%"
+            }
+        },
+        {
+            "name": "Box",
+            "css": {
+                "width": "18.9998%",
+                "height": "0.6%",
+                "background-color": "rgb(71, 226, 96)",
+                "border-radius": "0px",
+                "opacity": "1",
+                "background-size": "cover",
+                "background-position": "center center",
+                "box-shadow": "rgba(0, 0, 0, 0.2) 0px 0px 0px",
+                "border-width": "0px",
+                "border-color": "rgb(0, 0, 0)",
+                "border-style": "solid",
+                "z-index": "5",
+                "left": "39.9982%",
+                "top": "72.7997%",
+                "bottom": "auto"
+            },
+            "position": {
+                "x": "39.99755859375%",
+                "y": "72.79947916666667%"
+            }
+        },
+        {
+            "name": "Box",
+            "css": {
+                "width": "18.9998%",
+                "height": "0.6%",
+                "background-color": "rgb(71, 226, 96)",
+                "border-radius": "0px",
+                "opacity": "1",
+                "background-size": "cover",
+                "background-position": "center center",
+                "box-shadow": "rgba(0, 0, 0, 0.2) 0px 0px 0px",
+                "border-width": "0px",
+                "border-color": "rgb(0, 0, 0)",
+                "border-style": "solid",
+                "z-index": "5",
+                "left": "39.9982%",
+                "top": "79.7997%",
+                "bottom": "auto"
+            },
+            "position": {
+                "x": "39.99755859375%",
+                "y": "79.79890046296296%"
+            }
+        },
+        {
+            "name": "Text",
+            "css": {
+                "width": "2.20703%",
+                "height": "7.16347%",
+                "color": "rgb(255, 255, 255)",
+                "font-size": "1.2vw",
+                "font-weight": "normal",
+                "font-family": "Rajdhani",
+                "text-align": "left",
+                "z-index": "10",
+                "left": "40.9961%",
+                "top": "38.2946%"
+            },
+            "position": {
+                "x": "40.99609375%",
+                "y": "38.294270833333336%"
+            },
+            "vars": {
+                "text": "1."
+            }
+        },
+        {
+            "name": "Text",
+            "css": {
+                "width": "2.20703%",
+                "height": "7.16347%",
+                "color": "rgb(255, 255, 255)",
+                "font-size": "1.2vw",
+                "font-weight": "normal",
+                "font-family": "Rajdhani",
+                "text-align": "left",
+                "z-index": "10",
+                "left": "40.9961%",
+                "top": "44.9888%"
+            },
+            "position": {
+                "x": "40.99609375%",
+                "y": "44.988425925925924%"
+            },
+            "vars": {
+                "text": "2."
+            }
+        },
+        {
+            "name": "Text",
+            "css": {
+                "width": "2.20703%",
+                "height": "7.16347%",
+                "color": "rgb(255, 255, 255)",
+                "font-size": "1.2vw",
+                "font-weight": "normal",
+                "font-family": "Rajdhani",
+                "text-align": "left",
+                "z-index": "10",
+                "left": "40.9961%",
+                "top": "51.9888%"
+            },
+            "position": {
+                "x": "40.99609375%",
+                "y": "51.98784722222222%"
+            },
+            "vars": {
+                "text": "3."
+            }
+        },
+        {
+            "name": "Text",
+            "css": {
+                "width": "2.20703%",
+                "height": "7.16347%",
+                "color": "rgb(255, 255, 255)",
+                "font-size": "1.2vw",
+                "font-weight": "normal",
+                "font-family": "Rajdhani",
+                "text-align": "left",
+                "z-index": "10",
+                "left": "40.9961%",
+                "top": "58.9888%"
+            },
+            "position": {
+                "x": "40.99609375%",
+                "y": "58.98871527777778%"
+            },
+            "vars": {
+                "text": "4."
+            }
+        },
+        {
+            "name": "Text",
+            "css": {
+                "width": "2.20703%",
+                "height": "7.16347%",
+                "color": "rgb(255, 255, 255)",
+                "font-size": "1.2vw",
+                "font-weight": "normal",
+                "font-family": "Rajdhani",
+                "text-align": "left",
+                "z-index": "10",
+                "left": "40.9961%",
+                "top": "65.9888%"
+            },
+            "position": {
+                "x": "40.99609375%",
+                "y": "65.98813657407408%"
+            },
+            "vars": {
+                "text": "5."
+            }
+        },
+        {
+            "name": "Text",
+            "css": {
+                "width": "2.20703%",
+                "height": "7.16347%",
+                "color": "rgb(255, 255, 255)",
+                "font-size": "1.2vw",
+                "font-weight": "normal",
+                "font-family": "Rajdhani",
+                "text-align": "left",
+                "z-index": "10",
+                "left": "40.9961%",
+                "top": "72.9888%"
+            },
+            "position": {
+                "x": "40.99609375%",
+                "y": "72.98755787037037%"
+            },
+            "vars": {
+                "text": "6."
+            }
+        },
+        {
+            "name": "Text",
+            "css": {
+                "width": "2.20703%",
+                "height": "7.16347%",
+                "color": "rgb(255, 255, 255)",
+                "font-size": "1.2vw",
+                "font-weight": "normal",
+                "font-family": "Rajdhani",
+                "text-align": "left",
+                "z-index": "10",
+                "left": "40.9961%",
+                "top": "79.9888%"
+            },
+            "position": {
+                "x": "40.99609375%",
+                "y": "79.98842592592592%"
+            },
+            "vars": {
+                "text": "7."
+            }
+        },
+        {
+            "name": "Text",
+            "css": {
+                "width": "14.2066%",
+                "height": "7.16347%",
+                "color": "rgb(255, 255, 255)",
+                "font-size": "0.8vw",
+                "font-weight": "normal",
+                "font-family": "Rajdhani",
+                "text-align": "left",
+                "z-index": "10",
+                "left": "43.9925%",
+                "top": "38.292%"
+            },
+            "position": {
+                "x": "43.99169921875%",
+                "y": "38.29137731481482%"
+            },
+            "vars": {
+                "text": "You may not use your weapon unless needed"
+            }
+        },
+        {
+            "name": "Text",
+            "css": {
+                "width": "14.2066%",
+                "height": "7.16347%",
+                "color": "rgb(255, 255, 255)",
+                "font-size": "0.8vw",
+                "font-weight": "normal",
+                "font-family": "Rajdhani",
+                "text-align": "left",
+                "z-index": "10",
+                "left": "43.994%",
+                "top": "44.9888%"
+            },
+            "position": {
+                "x": "43.993326822916664%",
+                "y": "44.988425925925924%"
+            },
+            "vars": {
+                "text": "Using the props in order to break the listed rules is not permitted"
+            }
+        },
+        {
+            "name": "Text",
+            "css": {
+                "width": "14.2066%",
+                "height": "7.16347%",
+                "color": "rgb(255, 255, 255)",
+                "font-size": "0.8vw",
+                "font-weight": "normal",
+                "font-family": "Rajdhani",
+                "text-align": "left",
+                "z-index": "10",
+                "left": "43.994%",
+                "top": "51.9888%"
+            },
+            "position": {
+                "x": "43.993326822916664%",
+                "y": "51.98784722222222%"
+            },
+            "vars": {
+                "text": "Using your physgun as a laserpointer is not allowed"
+            }
+        },
+        {
+            "name": "Text",
+            "css": {
+                "width": "14.2066%",
+                "height": "7.16347%",
+                "color": "rgb(255, 255, 255)",
+                "font-size": "0.8vw",
+                "font-weight": "normal",
+                "font-family": "Rajdhani",
+                "text-align": "left",
+                "z-index": "10",
+                "left": "43.9933%",
+                "top": "58.9888%"
+            },
+            "position": {
+                "x": "43.992513020833336%",
+                "y": "58.98871527777778%"
+            },
+            "vars": {
+                "text": "Do not go up on the rooftops by building contraptions"
+            }
+        },
+        {
+            "name": "Text",
+            "css": {
+                "width": "14.2066%",
+                "height": "7.16347%",
+                "color": "rgb(255, 255, 255)",
+                "font-size": "0.8vw",
+                "font-weight": "normal",
+                "font-family": "Rajdhani",
+                "text-align": "left",
+                "z-index": "10",
+                "left": "43.994%",
+                "top": "65.9888%"
+            },
+            "position": {
+                "x": "43.993326822916664%",
+                "y": "65.98813657407408%"
+            },
+            "vars": {
+                "text": "Killing without a reason will lead to a permanent ban"
+            }
+        },
+        {
+            "name": "Text",
+            "css": {
+                "width": "14.2066%",
+                "height": "7.16347%",
+                "color": "rgb(255, 255, 255)",
+                "font-size": "0.8vw",
+                "font-weight": "normal",
+                "font-family": "Rajdhani",
+                "text-align": "left",
+                "z-index": "10",
+                "left": "43.994%",
+                "top": "72.9888%"
+            },
+            "position": {
+                "x": "43.993326822916664%",
+                "y": "72.98755787037037%"
+            },
+            "vars": {
+                "text": "If a gun is pointed at you, fear it all times"
+            }
+        },
+        {
+            "name": "Text",
+            "css": {
+                "width": "14.2066%",
+                "height": "7.16347%",
+                "color": "rgb(255, 255, 255)",
+                "font-size": "0.8vw",
+                "font-weight": "normal",
+                "font-family": "Rajdhani",
+                "text-align": "left",
+                "z-index": "10",
+                "left": "43.9933%",
+                "top": "79.9888%"
+            },
+            "position": {
+                "x": "43.992513020833336%",
+                "y": "79.98842592592592%"
+            },
+            "vars": {
+                "text": "Only 2 contrabands in a base at one for equality"
+            }
+        },
+        {
+            "name": "Text",
+            "css": {
+                "width": "16.2053%",
+                "height": "6.16347%",
+                "color": "rgb(255, 255, 255)",
+                "font-size": "1vw",
+                "font-weight": "normal",
+                "font-family": "Rajdhani",
+                "text-align": "center",
+                "z-index": "10",
+                "left": "59.9943%",
+                "top": "47.9888%"
+            },
+            "position": {
+                "x": "59.993489583333336%",
+                "y": "47.987557870370374%"
+            },
+            "vars": {
+                "text": "{{ user_steamid32 }}"
+            }
+        },
+        {
+            "name": "Text",
+            "css": {
+                "width": "14.2073%",
+                "height": "7.16242%",
+                "color": "rgb(255, 255, 255)",
+                "font-size": "1.56vw",
+                "font-weight": "normal",
+                "font-family": "Rajdhani",
+                "text-align": "left",
+                "z-index": "10",
+                "left": "60.9943%",
+                "top": "56.989%"
+            },
+            "position": {
+                "x": "60.99365234375%",
+                "y": "56.98784722222222%"
+            },
+            "vars": {
+                "text": "SERVER INFORMATION"
+            }
+        },
+        {
+            "name": "Box",
+            "css": {
+                "width": "15.9994%",
+                "height": "0.6%",
+                "background-color": "rgb(71, 226, 96)",
+                "border-radius": "0px",
+                "opacity": "1",
+                "background-size": "cover",
+                "background-position": "center center",
+                "box-shadow": "rgba(0, 0, 0, 0.2) 0px 0px 0px",
+                "border-width": "0px",
+                "border-color": "rgb(0, 0, 0)",
+                "border-style": "solid",
+                "z-index": "5",
+                "left": "59.9977%",
+                "top": "63.9917%",
+                "bottom": "auto"
+            },
+            "position": {
+                "x": "59.99755859375%",
+                "y": "63.9916087962963%"
+            }
+        },
+        {
+            "name": "Text",
+            "css": {
+                "width": "11.7033%",
+                "height": "5.15706%",
+                "color": "rgb(255, 255, 255)",
+                "font-size": "0.92vw",
+                "font-weight": "normal",
+                "font-family": "Rajdhani",
+                "text-align": "left",
+                "z-index": "10",
+                "left": "63.4922%",
+                "top": "65.4824%"
+            },
+            "position": {
+                "x": "63.492024739583336%",
+                "y": "65.48177083333333%"
+            },
+            "vars": {
+                "text": "{{ name }}"
+            }
+        },
+        {
+            "name": "Box",
+            "css": {
+                "width": "15.9994%",
+                "height": "0.6%",
+                "background-color": "rgb(71, 226, 96)",
+                "border-radius": "0px",
+                "opacity": "1",
+                "background-size": "cover",
+                "background-position": "center center",
+                "box-shadow": "rgba(0, 0, 0, 0.2) 0px 0px 0px",
+                "border-width": "0px",
+                "border-color": "rgb(0, 0, 0)",
+                "border-style": "solid",
+                "z-index": "5",
+                "left": "59.9977%",
+                "top": "71.9906%",
+                "bottom": "auto"
+            },
+            "position": {
+                "x": "59.99755859375%",
+                "y": "71.98929398148148%"
+            }
+        },
+        {
+            "name": "Box",
+            "css": {
+                "width": "15.9994%",
+                "height": "0.599359%",
+                "background-color": "rgb(71, 226, 96)",
+                "border-radius": "0px",
+                "opacity": "1",
+                "background-size": "cover",
+                "background-position": "center center",
+                "box-shadow": "rgba(0, 0, 0, 0.2) 0px 0px 0px",
+                "border-width": "0px",
+                "border-color": "rgb(0, 0, 0)",
+                "border-style": "solid",
+                "z-index": "5",
+                "left": "59.9974%",
+                "top": "78.9872%",
+                "bottom": "auto"
+            },
+            "position": {
+                "x": "59.996744791666664%",
+                "y": "78.98582175925925%"
+            }
+        },
+        {
+            "name": "Text",
+            "css": {
+                "width": "11.7041%",
+                "height": "5.15706%",
+                "color": "rgb(255, 255, 255)",
+                "font-size": "0.92vw",
+                "font-weight": "normal",
+                "font-family": "Rajdhani",
+                "text-align": "left",
+                "z-index": "10",
+                "left": "63.4922%",
+                "top": "72.984%"
+            },
+            "position": {
+                "x": "63.492024739583336%",
+                "y": "72.9832175925926%"
+            },
+            "vars": {
+                "text": "{{ gamemode }}"
+            }
+        },
+        {
+            "name": "Text",
+            "css": {
+                "width": "11.7041%",
+                "height": "5.15385%",
+                "color": "rgb(255, 255, 255)",
+                "font-size": "0.92vw",
+                "font-weight": "normal",
+                "font-family": "Rajdhani",
+                "text-align": "left",
+                "z-index": "10",
+                "left": "63.4922%",
+                "top": "80.4792%"
+            },
+            "position": {
+                "x": "63.492024739583336%",
+                "y": "80.47887731481481%"
+            },
+            "vars": {
+                "text": "{{ map }}"
+            }
+        },
+        {
+            "name": "Box",
+            "css": {
+                "width": "100%",
+                "height": "101%",
+                "background-color": "rgb(0, 0, 0)",
+                "border-radius": "0px",
+                "opacity": "0.5",
+                "background-size": "cover",
+                "background-position": "center center",
+                "box-shadow": "rgba(0, 0, 0, 0.2) 0px 0px 0px",
+                "border-width": "0px",
+                "border-color": "rgb(0, 0, 0)",
+                "border-style": "solid",
+                "z-index": "-1",
+                "top": "-0.999604%",
+                "left": "0%"
+            },
+            "position": {
+                "x": "0%",
+                "y": "-0.9982638888888888%"
+            }
+        },
+        {
+            "name": "Avatar image",
+            "css": {
+                "width": "5.49969%",
+                "height": "9.09722%",
+                "background-color": "rgb(255, 255, 255)",
+                "border-radius": "50%",
+                "opacity": "1",
+                "background-size": "cover",
+                "background-position": "center center",
+                "box-shadow": "rgb(71, 228, 97) 0px 0px 0px 0px",
+                "border-width": "4px",
+                "border-color": "rgb(71, 226, 98)",
+                "border-style": "solid",
+                "z-index": "5",
+                "left": "65.4948%",
+                "top": "34.4016%"
+            },
+            "position": {
+                "x": "65.49479166666667%",
+                "y": "34.401041666666664%"
+            }
+        },
+        {
+            "name": "Box",
+            "css": {
+                "width": "15%",
+                "height": "15.9996%",
+                "background-color": "rgb(41, 41, 41)",
+                "border-radius": "0px",
+                "opacity": "0.5",
+                "background-size": "cover",
+                "background-position": "center center",
+                "box-shadow": "rgba(0, 0, 0, 0.2) 0px 0px 0px",
+                "border-width": "0px",
+                "border-color": "rgb(0, 0, 0)",
+                "border-style": "solid",
+                "z-index": "5",
+                "left": "22.9997%",
+                "top": "30.9943%"
+            },
+            "position": {
+                "x": "22.999674479166668%",
+                "y": "30.99392361111111%"
+            }
+        },
+        {
+            "name": "Box",
+            "css": {
+                "width": "15%",
+                "height": "15.9996%",
+                "background-color": "rgb(41, 41, 41)",
+                "border-radius": "0px",
+                "opacity": "0.5",
+                "background-size": "cover",
+                "background-position": "center center",
+                "box-shadow": "rgba(0, 0, 0, 0.2) 0px 0px 0px",
+                "border-width": "0px",
+                "border-color": "rgb(0, 0, 0)",
+                "border-style": "solid",
+                "z-index": "5",
+                "left": "22.9992%",
+                "top": "51%",
+                "bottom": "auto"
+            },
+            "position": {
+                "x": "22.998860677083332%",
+                "y": "50.999710648148145%"
+            }
+        },
+        {
+            "name": "Box",
+            "css": {
+                "width": "15%",
+                "height": "15.9996%",
+                "background-color": "rgb(41, 41, 41)",
+                "border-radius": "0px",
+                "opacity": "0.5",
+                "background-size": "cover",
+                "background-position": "center center",
+                "box-shadow": "rgba(0, 0, 0, 0.2) 0px 0px 0px",
+                "border-width": "0px",
+                "border-color": "rgb(0, 0, 0)",
+                "border-style": "solid",
+                "z-index": "5",
+                "left": "22.9997%",
+                "top": "71%",
+                "bottom": "auto"
+            },
+            "position": {
+                "x": "22.999674479166668%",
+                "y": "70.99971064814815%"
+            }
+        },
+        {
+            "name": "Image",
+            "css": {
+                "width": "1.49903%",
+                "height": "3%",
+                "border-radius": "0px",
+                "opacity": "1",
+                "background-size": "100% 100%",
+                "background-repeat": "no-repeat",
+                "background-position": "center center",
+                "z-index": "5",
+                "top": "66.5%",
+                "left": "61%",
+                "background-image": "url(\"http:\/\/localhost:8000\/resources\/img\/font-awesome\/inbox.png\")"
+            },
+            "position": {
+                "x": "60.999348958333336%",
+                "y": "66.4988425925926%"
+            }
+        },
+        {
+            "name": "Image",
+            "css": {
+                "width": "1.49903%",
+                "height": "3%",
+                "border-radius": "0px",
+                "opacity": "1",
+                "background-size": "100% 100%",
+                "background-repeat": "no-repeat",
+                "background-position": "center center",
+                "z-index": "5",
+                "top": "74%",
+                "left": "61%",
+                "background-image": "url(\"http:\/\/localhost:8000\/resources\/img\/font-awesome\/gamepad.png\")"
+            },
+            "position": {
+                "x": "60.999348958333336%",
+                "y": "73.9988425925926%"
+            }
+        },
+        {
+            "name": "Image",
+            "css": {
+                "width": "1.49903%",
+                "height": "3%",
+                "border-radius": "0px",
+                "opacity": "1",
+                "background-size": "100% 100%",
+                "background-repeat": "no-repeat",
+                "background-position": "center center",
+                "z-index": "5",
+                "top": "81.5%",
+                "left": "61%",
+                "background-image": "url(\"http:\/\/localhost:8000\/resources\/img\/font-awesome\/map-marker.png\")"
+            },
+            "position": {
+                "x": "60.999348958333336%",
+                "y": "81.4988425925926%"
+            }
+        },
+        {
+            "name": "Text",
+            "css": {
+                "width": "16.2053%",
+                "height": "6.16347%",
+                "color": "rgb(255, 255, 255)",
+                "font-size": "1.6vw",
+                "font-weight": "bold",
+                "font-family": "Rajdhani",
+                "text-align": "center",
+                "z-index": "10",
+                "left": "59.9915%",
+                "top": "44.4835%"
+            },
+            "position": {
+                "x": "59.991048177083336%",
+                "y": "44.48350694444444%"
+            },
+            "vars": {
+                "text": "{{ user_name }}"
+            }
+        }
+    ],
+    "sound": {
+        "src": "",
+        "volume": "0.01"
+    },
+    "body": {
+        "background-image": "url(\"https:\/\/media.discordapp.net\/attachments\/389520400721117185\/735194504474132490\/bg3.jpg\")",
+        "cursor": "auto"
+    }
+}
